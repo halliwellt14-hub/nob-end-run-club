@@ -1,0 +1,18 @@
+# Nob End Run Club
+
+> A fun and friendly social running club based around Nob End Nature Reserve, Little Lever, Bolton, Greater Manchester, UK. All abilities welcome, beginners encouraged.
+
+## Weekly schedule
+- Wednesday track: Leverhulme Park athletics track, Bolton. Meet 7:50pm, run 8pm for about an hour.
+- Wednesday road/trail run (non-track weeks): around 7:30pm, start point varies weekly, usually finishes at a pub.
+- Sunday: road, trail or canal run around Nob End / Little Lever / Bolton, followed by coffee. Start point and time posted weekly.
+
+## Key pages
+- [Home](https://nob-end-run-club.netlify.app/)
+- [Weekly runs & this week's start points](https://nob-end-run-club.netlify.app/runs)
+- [First-timer guide & FAQs](https://nob-end-run-club.netlify.app/first-run)
+- [About the club](https://nob-end-run-club.netlify.app/about)
+- [Join / tell us you're coming](https://nob-end-run-club.netlify.app/join)
+
+## Contact
+- Facebook: https://www.facebook.com/p/Nob-End-Run-Club-100083983001015/

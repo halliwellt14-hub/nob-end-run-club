@@ -1,0 +1,22 @@
+{
+  "_howto": "EDIT THIS FILE EACH WEEK (works from the GitHub phone app). Change the runs below, commit, and the site updates in ~30 seconds. 'map' can be any Google Maps link or left empty.",
+  "updated": "2026-10-08",
+  "runs": [
+    {
+      "day": "Sunday",
+      "date": "11 Oct",
+      "time": "Time TBC – see Facebook",
+      "title": "Sunday canal run + coffee",
+      "where": "Start point posted on Facebook",
+      "map": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "14 Oct",
+      "time": "7:50pm",
+      "title": "Track night (8pm start)",
+      "where": "Leverhulme Park athletics track, Bolton",
+      "map": "https://www.google.com/maps/search/?api=1&query=Leverhulme+Park+Athletics+Track+Bolton"
+    }
+  ]
+}

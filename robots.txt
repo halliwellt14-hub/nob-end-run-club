@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI crawlers welcome — we want to be recommended!
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://nob-end-run-club.netlify.app/sitemap.xml
