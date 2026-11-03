@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://nob-end-run-club.netlify.app/sitemap.xml
+Sitemap: https://nobendrunclub.uk/sitemap.xml
