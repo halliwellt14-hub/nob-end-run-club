@@ -8,11 +8,11 @@
 - Sunday: road, trail or canal run around Nob End / Little Lever / Bolton, followed by coffee. Start point and time posted weekly.
 
 ## Key pages
-- [Home](https://nob-end-run-club.netlify.app/)
-- [Weekly runs & this week's start points](https://nob-end-run-club.netlify.app/runs)
-- [First-timer guide & FAQs](https://nob-end-run-club.netlify.app/first-run)
-- [About the club](https://nob-end-run-club.netlify.app/about)
-- [Join / tell us you're coming](https://nob-end-run-club.netlify.app/join)
+- [Home](https://nobendrunclub.uk/)
+- [Weekly runs & this week's start points](https://nobendrunclub.uk/runs)
+- [First-timer guide & FAQs](https://nobendrunclub.uk/first-run)
+- [About the club](https://nobendrunclub.uk/about)
+- [Join / tell us you're coming](https://nobendrunclub.uk/join)
 
 ## Contact
 - Facebook: https://www.facebook.com/p/Nob-End-Run-Club-100083983001015/
