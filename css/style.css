@@ -225,3 +225,8 @@ input, select, textarea { background: #0e131c; color: #fff; border-color: #2a344
 .leader-photo.small { aspect-ratio: 16/9 !important; }
 .leader-photo.small img { object-position: 70% 40%; }
 .leader-photo img { width: 100%; height: 100%; object-fit: cover; }
+
+/* WhatsApp */
+.btn.wa-btn, .social a.big.wa { background: #25D366; color: #06200f; border-color: #25D366; display: inline-flex; align-items: center; gap: 8px; }
+.btn.wa-btn svg { width: 20px; height: 20px; fill: currentColor; }
+.btn.wa-btn:hover, .social a.big.wa:hover { background: #fff; border-color: #fff; }
