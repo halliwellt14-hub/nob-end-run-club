@@ -175,3 +175,53 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue); }
   .mobile-cta { display: block; position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 60; text-align: center; background: var(--lime); color: var(--ink); font-weight: 800; padding: 15px; border-radius: 999px; text-decoration: none; box-shadow: 0 8px 24px rgba(0,0,0,.35); }
   .site-footer { padding-bottom: 90px; }
 }
+
+/* ===== Dark club theme with logo watermark ===== */
+html { background: #07080b; }
+body { background: transparent; color: #e9edf2; position: relative; }
+body::before { content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: url("/images/logo-watermark.webp") center 55% / min(90vmin, 760px) no-repeat; opacity: .2; }
+section { background: transparent; }
+.alt { background: rgba(19, 36, 59, .35); }
+.dark { background: rgba(5, 6, 8, .55); }
+.muted { color: #a9b4c2; }
+.card, .run-row, details { background: rgba(16, 21, 31, .88); border-color: rgba(255,255,255,.08); color: #e9edf2; }
+.run-row .when span, .run-row .what small { color: #a9b4c2; }
+summary::after { color: var(--lime); }
+input, select, textarea { background: #0e131c; color: #fff; border-color: #2a3444; }
+.btn.dark { background: var(--lime); color: var(--ink); border-color: var(--lime); }
+.page-hero { background: linear-gradient(135deg, rgba(10,10,12,.92), rgba(19,36,59,.85)); }
+.site-footer { background: rgba(3,3,4,.92); }
+.split .photo, .gallery figure { box-shadow: 0 10px 30px rgba(0,0,0,.45); }
+.logo span { font-size: 20px; }
+@media (max-width: 420px) { .logo span { font-size: 17px; } }
+.lead-2 { margin-top: -6px; }
+.hero h1 { font-size: clamp(46px, 9vw, 100px); }
+.week-social { margin-top: 22px; background: rgba(16,21,31,.88); border: 1px solid rgba(255,255,255,.08); border-radius: var(--radius); padding: 20px 22px; }
+.week-social p { margin: 0 0 14px; }
+.social a.big { background: var(--lime); color: var(--ink); border-color: var(--lime); }
+.social a.big:hover { background: #fff; }
+.community-photos figure { margin: 0; border-radius: var(--radius); overflow: hidden; aspect-ratio: 3/2; box-shadow: 0 10px 30px rgba(0,0,0,.45); }
+.community-photos img { width: 100%; height: 100%; object-fit: cover; }
+.leader-photo { aspect-ratio: 1 !important; max-width: 440px; }
+.medal { display: inline-block; font-weight: 800; color: var(--ink); background: var(--lime); padding: 6px 12px; border-radius: 8px; }
+.prose h3 { margin-top: 1.2em; }
+.gallery { grid-template-columns: repeat(4, 1fr); }
+.card-img { height: auto; }
+
+/* ===== New club logo ===== */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.site-header .wrap { height: 84px; }
+.logo-img { width: auto; height: 70px; border-radius: 0; object-fit: contain; }
+.nav { top: 84px !important; }
+@media (max-width: 820px) { .nav { top: 84px; } .logo-img { height: 62px; } }
+.hero .wrap { padding-top: 40px; padding-bottom: 70px; }
+.hero-logo { margin: 18px 0 10px; line-height: 0; }
+.hero-logo img { width: min(520px, 88%); height: auto; filter: drop-shadow(0 6px 24px rgba(0,0,0,.7)); }
+@media (max-width: 600px) { .hero-logo img { width: 92%; } }
+.leader-photos { display: grid; grid-template-columns: 1fr; gap: 14px; max-width: 460px; }
+.leader-photos figure { margin: 0; position: relative; }
+.leader-photos figcaption { position: absolute; left: 10px; bottom: 10px; background: rgba(0,0,0,.7); color: #fff; font-size: 13px; font-weight: 700; padding: 5px 10px; border-radius: 6px; }
+.leader-photo.small { aspect-ratio: 16/9 !important; }
+.leader-photo.small img { object-position: 70% 40%; }
+.leader-photo img { width: 100%; height: 100%; object-fit: cover; }

@@ -1,22 +1,22 @@
 {
-  "_howto": "EDIT THIS FILE EACH WEEK (works from the GitHub phone app). Change the runs below, commit, and the site updates in ~30 seconds. 'map' can be any Google Maps link or left empty.",
-  "updated": "2026-10-08",
+  "_howto": "EDIT THIS FILE EACH WEEK (works from the GitHub phone app). Change the runs below, commit, and the site updates in about a minute. 'map' can be any Google Maps link or left empty.",
+  "updated": "2026-11-03",
   "runs": [
     {
-      "day": "Sunday",
-      "date": "11 Oct",
-      "time": "Time TBC – see Facebook",
-      "title": "Sunday canal run + coffee",
-      "where": "Start point posted on Facebook",
-      "map": ""
+      "day": "Wednesday",
+      "date": "4 Nov",
+      "time": "7:30pm / 7:50pm",
+      "title": "Track night or pub run",
+      "where": "Track: Leverhulme Park, Bolton (meet 7:50pm, run 8pm). Pub run start point on Facebook & Instagram.",
+      "map": "https://www.google.com/maps/search/?api=1&query=Leverhulme+Park+Athletics+Track+Bolton"
     },
     {
-      "day": "Wednesday",
-      "date": "14 Oct",
-      "time": "7:50pm",
-      "title": "Track night (8pm start)",
-      "where": "Leverhulme Park athletics track, Bolton",
-      "map": "https://www.google.com/maps/search/?api=1&query=Leverhulme+Park+Athletics+Track+Bolton"
+      "day": "Sunday",
+      "date": "8 Nov",
+      "time": "See socials",
+      "title": "Sunday miles, coffee & cake",
+      "where": "Start point posted on Facebook & Instagram",
+      "map": ""
     }
   ]
 }
