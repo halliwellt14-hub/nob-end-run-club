@@ -289,3 +289,6 @@ summary { min-height: 44px; align-items: center; }
   .hero .wrap { padding-top: 92px; }
   .page-hero { padding-top: 112px; }
 }
+/* Social links on lighter panels: keep them dark with white text so they're readable */
+.alt .social a, .card .social a { background: rgba(10,10,12,.85); border-color: rgba(255,255,255,.18); color: #fff; }
+.alt .social a:hover, .card .social a:hover { background: var(--lime); color: var(--ink); border-color: var(--lime); }
